@@ -20,3 +20,5 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
 * number of major vessels (0-3) colored by flourosopy
 * thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 * The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
+
+Data source: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
